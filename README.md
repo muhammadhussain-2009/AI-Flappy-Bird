@@ -15,8 +15,8 @@ A Deep Q-Network (DQN) reinforcement learning agent trained to play Flappy Bird 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Madhura-Kedar/Ai-learned-Flappy-Bird.git
-cd Ai-learned-Flappy-Bird
+git clone https://github.com/muhammadhussain-2009/AI-Flappy-Bird.git
+cd Reinforcement Learning Flappy Bird
 ```
 
 2. Install dependencies:
